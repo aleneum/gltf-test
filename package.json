@@ -1,0 +1,13 @@
+{
+    "type": "module",
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "@gltf-transform/core": "^3.0.0",
+        "@gltf-transform/extensions": "^3.0.0"
+    },
+    "devDependencies": {
+        "typescript": "^4.9.5"
+    }
+}
