@@ -4,8 +4,8 @@
         "build": "tsc"
     },
     "dependencies": {
-        "@gltf-transform/core": "^3.0.0",
-        "@gltf-transform/extensions": "^3.0.0"
+        "@gltf-transform/core": "^3.0.1-alpha.0",
+        "@gltf-transform/extensions": "^3.0.1-alpha.0"
     },
     "devDependencies": {
         "typescript": "^4.9.5"
